@@ -1,6 +1,3 @@
-# projeto_eda_covid
-Projeto Digital Innovation One em parceria com o Prof. Dr. Neylson Crepalde
-
 # Modelagem da Evolução da COVID-19 no Brasil com Python e Machine Learning
 
 Etapas envolvidas na criação de modelos para prever a evolução da COVID-19 no Brasil usando Python e técnicas de Machine Learning. Usaremos dados provenientes do Kaggle e incorporaremos os processos descritos nas capturas de tela do menu fornecidas.
